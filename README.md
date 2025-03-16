@@ -30,7 +30,7 @@ Database Management: SQL, MySQL, NoSQL
 
 📫 How to Reach Me
 
-[LinkedIn:](https://www.linkedin.com/in/christian-giovanni-martinez-oyuela-417984309/) 
+LinkedIn: [Profile](https://www.linkedin.com/in/christian-giovanni-martinez-oyuela-417984309/) 
 
 Email: primo_103@hotmail.com
 
