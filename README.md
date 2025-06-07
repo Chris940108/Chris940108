@@ -4,7 +4,7 @@
 
 📌 About Me
 
-I'm a soon-to-be Computer Programming graduate with a passion for software development. I've worked on various personal and academic projects using Python, Java (with Eclipse and Spring Boot), C#, C, HTML, and Jupyter Notebook, etc.
+I'm a Computer Programmer with a passion for software development. I've worked on various personal and academic projects using Python, Java (with Eclipse and Spring Boot), C#, C, HTML, and Jupyter Notebook, etc.
 
 I'm highly motivated to continue learning and growing in the tech industry. Whether it's building web applications, developing data-driven solutions, or working on creative coding projects, I'm always eager to take on new challenges.
 
